@@ -83,6 +83,18 @@
 	letter-spacing: normal
 }
 
+.links{
+	/* border: 3px solid red; */
+	width:100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.repoLink{
+	border: 3px solid blue;
+
+}
+
 /* Basic */
 
 	@-ms-viewport {
