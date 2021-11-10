@@ -95,6 +95,24 @@
 
 }
 
+.selfImg-1{
+    /* border: 3px solid red; */
+    height: 550px;
+    width:500px;
+    margin-left: 29%;
+    background-image: url('./images/self.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.contact-index{
+    /* border:  3px solid green; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
 /* Basic */
 
 	@-ms-viewport {
